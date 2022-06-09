@@ -1,0 +1,1860 @@
+{
+    "dom": {
+        "left": {
+            "up": {
+                "location": [
+                    100,
+                    50,
+                    1900,
+                    950
+                ],
+                "comp": [
+                    "43bb8d69-6e4f-4153-88fe-0284710be87f",
+                    "12609497-8681-4465-867d-0c61af60a906",
+                    "b0550678-eb7b-4f3c-8b51-ae59eaf791f1",
+                    "69ec62c9-0d9f-4e52-87ad-adb53c7556c9",
+                    "8c7534f8-58d2-46cc-83ee-4320685fcb98",
+                    "cc761bd1-218a-4c16-a702-72c4a1c3318d",
+                    "8aba3070-f417-48b6-ab39-672063427df0",
+                    "6d9e5f27-c07b-4892-b117-07923494c586",
+                    "62d3dd95-a68a-47da-b82e-3b7e0ea31039",
+                    "e233ebef-a5f3-476a-aedd-9d37fbd0928c",
+                    "075426eb-f457-48c6-8d1c-3287b53a717f",
+                    "e2374ebc-9d5d-4561-b7e9-d0b4012950b5",
+                    "e1a64698-a0e3-41e6-a26f-0db9bc675738",
+                    "6f7e7553-83dc-4d81-8045-417512a2c9ae",
+                    "dc81f372-c611-4c94-ad67-17d4b13ab612",
+                    "3d02e9ce-3f71-4993-8490-19cf72467354",
+                    "f31300cd-8653-471a-a5e0-722907d2007f",
+                    "8b6ad90b-5e12-4664-8413-2054bd2781ab",
+                    "bceef175-6ac0-4c08-9adb-ede67adb7d19",
+                    "39a9849a-fee2-4142-acbe-d6f02773c158"
+                ],
+                "heatpipe": [
+                    "L0",
+                    "L1",
+                    "L2",
+                    "L3",
+                    "L4",
+                    "L5",
+                    "L6",
+                    "L7",
+                    "L8",
+                    "L9",
+                    "L10",
+                    "L11",
+                    "L12",
+                    "L13",
+                    "L14",
+                    "L15"
+                ]
+            },
+            "down": {
+                "location": [
+                    100,
+                    -950,
+                    1900,
+                    -50
+                ],
+                "comp": [
+                    "d66e9e53-6f8f-446c-b8c2-67820c29df1d",
+                    "751b1941-e199-49d8-a594-e4c5497b6d0e",
+                    "3ef8e578-45e6-4c5d-9170-0c4b028296e4",
+                    "9b795389-58af-4ac2-87e7-32ad541cd95e",
+                    "0c40f20b-c446-4d35-bc42-88b6d37c4b6e",
+                    "f329ef86-3250-441d-8d01-06cfc8ba3e01",
+                    "cb2f8cd0-fb1d-4055-9b82-35f93cc2620d",
+                    "76c6b0c8-6e03-4016-9476-0cd5a9e34631",
+                    "2545c62f-9eb3-4a9e-a4a5-9ee2396259dd",
+                    "45cbddf0-c999-458a-b26e-c40d68d2d4c2",
+                    "0ee4b6d4-f385-481a-bb90-1587c4704e92",
+                    "c01a2d80-7037-430e-af61-ac22dc9047b3",
+                    "31127252-3018-47a7-85bf-c7b395e3d315",
+                    "d1dd602a-366a-46a0-ab76-5055d375f22c",
+                    "22a19246-7e07-41ce-9202-fc5f21ca330e",
+                    "dbb85a76-23b3-48d9-98c1-85d68e235ac8",
+                    "f400ba21-f81f-4289-9cf8-3ab788cabdbf",
+                    "3140002a-2dd0-456e-9517-bf56c0c48bf3",
+                    "106cff41-3be6-4229-a81b-8f8b4dc79b01",
+                    "e38d8c0a-8521-4cc6-b833-5dc13811271a"
+                ],
+                "heatpipe": [
+                    "L0",
+                    "L1",
+                    "L2",
+                    "L3",
+                    "L4",
+                    "L5",
+                    "L6",
+                    "L7",
+                    "L8",
+                    "L9",
+                    "L10",
+                    "L11",
+                    "L12",
+                    "L13",
+                    "L14",
+                    "L15"
+                ]
+            },
+            "width": 2000,
+            "height": 2000,
+            "heatpipe": [
+                "L0",
+                "L1",
+                "L2",
+                "L3",
+                "L4",
+                "L5",
+                "L6",
+                "L7",
+                "L8",
+                "L9",
+                "L10",
+                "L11",
+                "L12",
+                "L13",
+                "L14",
+                "L15"
+            ],
+            "location": [
+                0,
+                -1000,
+                2000,
+                1000
+            ]
+        },
+        "right": {
+            "up": {
+                "location": [
+                    100,
+                    50,
+                    1900,
+                    950
+                ],
+                "comp": [],
+                "heatpipe": [
+                    "R0",
+                    "R1",
+                    "R2",
+                    "R3",
+                    "R4",
+                    "R5",
+                    "R6",
+                    "R7",
+                    "R8",
+                    "R9",
+                    "R10",
+                    "R11",
+                    "R12",
+                    "R13",
+                    "R14",
+                    "R15"
+                ]
+            },
+            "down": {
+                "location": [
+                    100,
+                    -950,
+                    1900,
+                    -50
+                ],
+                "comp": [],
+                "heatpipe": [
+                    "R0",
+                    "R1",
+                    "R2",
+                    "R3",
+                    "R4",
+                    "R5",
+                    "R6",
+                    "R7",
+                    "R8",
+                    "R9",
+                    "R10",
+                    "R11",
+                    "R12",
+                    "R13",
+                    "R14",
+                    "R15"
+                ]
+            },
+            "width": 2000,
+            "height": 2000,
+            "heatpipe": [
+                "R0",
+                "R1",
+                "R2",
+                "R3",
+                "R4",
+                "R5",
+                "R6",
+                "R7",
+                "R8",
+                "R9",
+                "R10",
+                "R11",
+                "R12",
+                "R13",
+                "R14",
+                "R15"
+            ],
+            "location": [
+                0,
+                -1000,
+                2000,
+                1000
+            ]
+        }
+    },
+    "comps": {
+        "d66e9e53-6f8f-446c-b8c2-67820c29df1d": {
+            "size": {
+                "width": 200,
+                "height": 100
+            },
+            "mass": 6.5,
+            "intensity": 70,
+            "heatpipe_num": 2,
+            "origin": "",
+            "backups": [],
+            "board": "left_down",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                258,
+                -168
+            ],
+            "comhp_index": [
+                0,
+                1
+            ],
+            "comhp_index_opt": 0,
+            "islocked": false
+        },
+        "751b1941-e199-49d8-a594-e4c5497b6d0e": {
+            "size": {
+                "width": 200,
+                "height": 100
+            },
+            "mass": 6.5,
+            "intensity": 70,
+            "heatpipe_num": 2,
+            "origin": "",
+            "backups": [],
+            "board": "left_down",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                670,
+                -221
+            ],
+            "comhp_index": [
+                4,
+                5
+            ],
+            "comhp_index_opt": 4,
+            "islocked": false
+        },
+        "3ef8e578-45e6-4c5d-9170-0c4b028296e4": {
+            "size": {
+                "width": 200,
+                "height": 100
+            },
+            "mass": 6.5,
+            "intensity": 70,
+            "heatpipe_num": 2,
+            "origin": "",
+            "backups": [],
+            "board": "left_down",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                891,
+                -444
+            ],
+            "comhp_index": [
+                6,
+                7
+            ],
+            "comhp_index_opt": 6,
+            "islocked": false
+        },
+        "9b795389-58af-4ac2-87e7-32ad541cd95e": {
+            "size": {
+                "width": 200,
+                "height": 100
+            },
+            "mass": 6.5,
+            "intensity": 70,
+            "heatpipe_num": 2,
+            "origin": "",
+            "backups": [],
+            "board": "left_down",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                242,
+                -347
+            ],
+            "comhp_index": [
+                0,
+                1
+            ],
+            "comhp_index_opt": 0,
+            "islocked": false
+        },
+        "0c40f20b-c446-4d35-bc42-88b6d37c4b6e": {
+            "size": {
+                "width": 200,
+                "height": 100
+            },
+            "mass": 6.5,
+            "intensity": 70,
+            "heatpipe_num": 2,
+            "origin": "",
+            "backups": [],
+            "board": "left_down",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                471,
+                -452
+            ],
+            "comhp_index": [
+                2,
+                3
+            ],
+            "comhp_index_opt": 2,
+            "islocked": false
+        },
+        "f329ef86-3250-441d-8d01-06cfc8ba3e01": {
+            "size": {
+                "width": 280,
+                "height": 120
+            },
+            "mass": 4.6,
+            "intensity": 56,
+            "heatpipe_num": 2,
+            "origin": "",
+            "backups": [],
+            "board": "left_down",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1162,
+                -368
+            ],
+            "comhp_index": [
+                8,
+                9,
+                10
+            ],
+            "comhp_index_opt": 8,
+            "islocked": false
+        },
+        "cb2f8cd0-fb1d-4055-9b82-35f93cc2620d": {
+            "size": {
+                "width": 280,
+                "height": 120
+            },
+            "mass": 4.6,
+            "intensity": 56,
+            "heatpipe_num": 3,
+            "origin": "",
+            "backups": [],
+            "board": "left_down",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1166,
+                -644
+            ],
+            "comhp_index": [
+                8,
+                9,
+                10
+            ],
+            "comhp_index_opt": 8,
+            "islocked": false
+        },
+        "76c6b0c8-6e03-4016-9476-0cd5a9e34631": {
+            "size": {
+                "width": 280,
+                "height": 120
+            },
+            "mass": 4.6,
+            "intensity": 56,
+            "heatpipe_num": 2,
+            "origin": "",
+            "backups": [],
+            "board": "left_down",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                947,
+                -800
+            ],
+            "comhp_index": [
+                6,
+                7,
+                8
+            ],
+            "comhp_index_opt": 6,
+            "islocked": false
+        },
+        "2545c62f-9eb3-4a9e-a4a5-9ee2396259dd": {
+            "size": {
+                "width": 120,
+                "height": 100
+            },
+            "mass": 3,
+            "intensity": 10,
+            "heatpipe_num": 1,
+            "origin": "",
+            "backups": [],
+            "board": "left_down",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                848,
+                -265
+            ],
+            "comhp_index": [
+                6
+            ],
+            "comhp_index_opt": 6,
+            "islocked": false
+        },
+        "45cbddf0-c999-458a-b26e-c40d68d2d4c2": {
+            "size": {
+                "width": 120,
+                "height": 100
+            },
+            "mass": 3,
+            "intensity": 10,
+            "heatpipe_num": 1,
+            "origin": "",
+            "backups": [],
+            "board": "left_down",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1251,
+                -222
+            ],
+            "comhp_index": [
+                10
+            ],
+            "comhp_index_opt": 10,
+            "islocked": false
+        },
+        "0ee4b6d4-f385-481a-bb90-1587c4704e92": {
+            "size": {
+                "width": 180,
+                "height": 150
+            },
+            "mass": 4,
+            "intensity": 36,
+            "heatpipe_num": 2,
+            "origin": "",
+            "backups": [],
+            "board": "left_down",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1313,
+                -838
+            ],
+            "comhp_index": [
+                10,
+                11
+            ],
+            "comhp_index_opt": 10,
+            "islocked": false
+        },
+        "c01a2d80-7037-430e-af61-ac22dc9047b3": {
+            "size": {
+                "width": 180,
+                "height": 150
+            },
+            "mass": 4,
+            "intensity": 36,
+            "heatpipe_num": 2,
+            "origin": "",
+            "backups": [],
+            "board": "left_down",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1537,
+                -653
+            ],
+            "comhp_index": [
+                12,
+                13
+            ],
+            "comhp_index_opt": 12,
+            "islocked": false
+        },
+        "31127252-3018-47a7-85bf-c7b395e3d315": {
+            "size": {
+                "width": 180,
+                "height": 150
+            },
+            "mass": 4,
+            "intensity": 36,
+            "heatpipe_num": 2,
+            "origin": "",
+            "backups": [],
+            "board": "left_down",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1762,
+                -648
+            ],
+            "comhp_index": [
+                14,
+                15
+            ],
+            "comhp_index_opt": 14,
+            "islocked": false
+        },
+        "d1dd602a-366a-46a0-ab76-5055d375f22c": {
+            "size": {
+                "width": 180,
+                "height": 150
+            },
+            "mass": 4,
+            "intensity": 36,
+            "heatpipe_num": 2,
+            "origin": "",
+            "backups": [],
+            "board": "left_down",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1529,
+                -438
+            ],
+            "comhp_index": [
+                12,
+                13
+            ],
+            "comhp_index_opt": 12,
+            "islocked": false
+        },
+        "22a19246-7e07-41ce-9202-fc5f21ca330e": {
+            "size": {
+                "width": 180,
+                "height": 150
+            },
+            "mass": 4,
+            "intensity": 36,
+            "heatpipe_num": 2,
+            "origin": "",
+            "backups": [],
+            "board": "left_down",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1759,
+                -437
+            ],
+            "comhp_index": [
+                14,
+                15
+            ],
+            "comhp_index_opt": 14,
+            "islocked": false
+        },
+        "dbb85a76-23b3-48d9-98c1-85d68e235ac8": {
+            "size": {
+                "width": 100,
+                "height": 200
+            },
+            "mass": 2.8,
+            "intensity": 15,
+            "heatpipe_num": 1,
+            "origin": "",
+            "backups": [],
+            "board": "left_down",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1371,
+                -183
+            ],
+            "comhp_index": [
+                11
+            ],
+            "comhp_index_opt": 11,
+            "islocked": false
+        },
+        "f400ba21-f81f-4289-9cf8-3ab788cabdbf": {
+            "size": {
+                "width": 100,
+                "height": 200
+            },
+            "mass": 2.8,
+            "intensity": 15,
+            "heatpipe_num": 1,
+            "origin": "",
+            "backups": [],
+            "board": "left_down",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1484,
+                -183
+            ],
+            "comhp_index": [
+                12
+            ],
+            "comhp_index_opt": 12,
+            "islocked": false
+        },
+        "3140002a-2dd0-456e-9517-bf56c0c48bf3": {
+            "size": {
+                "width": 100,
+                "height": 200
+            },
+            "mass": 2.8,
+            "intensity": 15,
+            "heatpipe_num": 1,
+            "origin": "",
+            "backups": [],
+            "board": "left_down",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1600,
+                -182
+            ],
+            "comhp_index": [
+                13
+            ],
+            "comhp_index_opt": 13,
+            "islocked": false
+        },
+        "106cff41-3be6-4229-a81b-8f8b4dc79b01": {
+            "size": {
+                "width": 100,
+                "height": 200
+            },
+            "mass": 2.8,
+            "intensity": 15,
+            "heatpipe_num": 1,
+            "origin": "",
+            "backups": [],
+            "board": "left_down",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1711,
+                -180
+            ],
+            "comhp_index": [
+                14
+            ],
+            "comhp_index_opt": 14,
+            "islocked": false
+        },
+        "e38d8c0a-8521-4cc6-b833-5dc13811271a": {
+            "size": {
+                "width": 100,
+                "height": 200
+            },
+            "mass": 2.8,
+            "intensity": 15,
+            "heatpipe_num": 1,
+            "origin": "",
+            "backups": [],
+            "board": "left_down",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1828,
+                -184
+            ],
+            "comhp_index": [
+                15
+            ],
+            "comhp_index_opt": 15,
+            "islocked": false
+        },
+        "43bb8d69-6e4f-4153-88fe-0284710be87f": {
+            "size": {
+                "width": 200,
+                "height": 100
+            },
+            "mass": 6.5,
+            "intensity": 70,
+            "heatpipe_num": 2,
+            "origin": "",
+            "backups": [],
+            "board": "left_up",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                455,
+                616
+            ],
+            "comhp_index": [
+                2,
+                3
+            ],
+            "comhp_index_opt": 2,
+            "islocked": false
+        },
+        "12609497-8681-4465-867d-0c61af60a906": {
+            "size": {
+                "width": 200,
+                "height": 100
+            },
+            "mass": 6.5,
+            "intensity": 70,
+            "heatpipe_num": 2,
+            "origin": "",
+            "backups": [],
+            "board": "left_up",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                674,
+                344
+            ],
+            "comhp_index": [
+                4,
+                5
+            ],
+            "comhp_index_opt": 4,
+            "islocked": false
+        },
+        "b0550678-eb7b-4f3c-8b51-ae59eaf791f1": {
+            "size": {
+                "width": 200,
+                "height": 100
+            },
+            "mass": 6.5,
+            "intensity": 70,
+            "heatpipe_num": 2,
+            "origin": "",
+            "backups": [],
+            "board": "left_up",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                252,
+                434
+            ],
+            "comhp_index": [
+                0,
+                1
+            ],
+            "comhp_index_opt": 0,
+            "islocked": false
+        },
+        "69ec62c9-0d9f-4e52-87ad-adb53c7556c9": {
+            "size": {
+                "width": 200,
+                "height": 100
+            },
+            "mass": 6.5,
+            "intensity": 70,
+            "heatpipe_num": 2,
+            "origin": "",
+            "backups": [],
+            "board": "left_up",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                687,
+                717
+            ],
+            "comhp_index": [
+                4,
+                5
+            ],
+            "comhp_index_opt": 4,
+            "islocked": false
+        },
+        "8c7534f8-58d2-46cc-83ee-4320685fcb98": {
+            "size": {
+                "width": 200,
+                "height": 100
+            },
+            "mass": 6.5,
+            "intensity": 70,
+            "heatpipe_num": 2,
+            "origin": "",
+            "backups": [],
+            "board": "left_up",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                458,
+                186
+            ],
+            "comhp_index": [
+                2,
+                3
+            ],
+            "comhp_index_opt": 2,
+            "islocked": false
+        },
+        "cc761bd1-218a-4c16-a702-72c4a1c3318d": {
+            "size": {
+                "width": 280,
+                "height": 120
+            },
+            "mass": 4.6,
+            "intensity": 56,
+            "heatpipe_num": 3,
+            "origin": "",
+            "backups": [],
+            "board": "left_up",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1042,
+                627
+            ],
+            "comhp_index": [
+                7,
+                8,
+                9
+            ],
+            "comhp_index_opt": 7,
+            "islocked": false
+        },
+        "8aba3070-f417-48b6-ab39-672063427df0": {
+            "size": {
+                "width": 280,
+                "height": 120
+            },
+            "mass": 4.6,
+            "intensity": 56,
+            "heatpipe_num": 3,
+            "origin": "",
+            "backups": [],
+            "board": "left_up",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1042,
+                412
+            ],
+            "comhp_index": [
+                7,
+                8,
+                9
+            ],
+            "comhp_index_opt": 7,
+            "islocked": false
+        },
+        "6d9e5f27-c07b-4892-b117-07923494c586": {
+            "size": {
+                "width": 280,
+                "height": 120
+            },
+            "mass": 4.6,
+            "intensity": 56,
+            "heatpipe_num": 3,
+            "origin": "",
+            "backups": [],
+            "board": "left_up",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1057,
+                807
+            ],
+            "comhp_index": [
+                7,
+                8,
+                9
+            ],
+            "comhp_index_opt": 7,
+            "islocked": false
+        },
+        "62d3dd95-a68a-47da-b82e-3b7e0ea31039": {
+            "size": {
+                "width": 120,
+                "height": 100
+            },
+            "mass": 3,
+            "intensity": 10,
+            "heatpipe_num": 1,
+            "origin": "",
+            "backups": [],
+            "board": "left_up",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1162,
+                184
+            ],
+            "comhp_index": [
+                9
+            ],
+            "comhp_index_opt": 9,
+            "islocked": false
+        },
+        "e233ebef-a5f3-476a-aedd-9d37fbd0928c": {
+            "size": {
+                "width": 120,
+                "height": 100
+            },
+            "mass": 3,
+            "intensity": 10,
+            "heatpipe_num": 1,
+            "origin": "",
+            "backups": [],
+            "board": "left_up",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                844,
+                184
+            ],
+            "comhp_index": [
+                6
+            ],
+            "comhp_index_opt": 6,
+            "islocked": false
+        },
+        "075426eb-f457-48c6-8d1c-3287b53a717f": {
+            "size": {
+                "width": 180,
+                "height": 150
+            },
+            "mass": 4,
+            "intensity": 36,
+            "heatpipe_num": 2,
+            "origin": "",
+            "backups": [],
+            "board": "left_up",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1326,
+                689
+            ],
+            "comhp_index": [
+                10,
+                11
+            ],
+            "comhp_index_opt": 10,
+            "islocked": false
+        },
+        "e2374ebc-9d5d-4561-b7e9-d0b4012950b5": {
+            "size": {
+                "width": 180,
+                "height": 150
+            },
+            "mass": 4,
+            "intensity": 36,
+            "heatpipe_num": 2,
+            "origin": "",
+            "backups": [],
+            "board": "left_up",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1532,
+                688
+            ],
+            "comhp_index": [
+                12,
+                13
+            ],
+            "comhp_index_opt": 12,
+            "islocked": false
+        },
+        "e1a64698-a0e3-41e6-a26f-0db9bc675738": {
+            "size": {
+                "width": 180,
+                "height": 150
+            },
+            "mass": 4,
+            "intensity": 36,
+            "heatpipe_num": 2,
+            "origin": "",
+            "backups": [],
+            "board": "left_up",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1754,
+                683
+            ],
+            "comhp_index": [
+                14,
+                15
+            ],
+            "comhp_index_opt": 14,
+            "islocked": false
+        },
+        "6f7e7553-83dc-4d81-8045-417512a2c9ae": {
+            "size": {
+                "width": 180,
+                "height": 150
+            },
+            "mass": 4,
+            "intensity": 36,
+            "heatpipe_num": 2,
+            "origin": "",
+            "backups": [],
+            "board": "left_up",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1533,
+                475
+            ],
+            "comhp_index": [
+                12,
+                13
+            ],
+            "comhp_index_opt": 12,
+            "islocked": false
+        },
+        "dc81f372-c611-4c94-ad67-17d4b13ab612": {
+            "size": {
+                "width": 180,
+                "height": 150
+            },
+            "mass": 4,
+            "intensity": 36,
+            "heatpipe_num": 2,
+            "origin": "",
+            "backups": [],
+            "board": "left_up",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1750,
+                471
+            ],
+            "comhp_index": [
+                14,
+                15
+            ],
+            "comhp_index_opt": 14,
+            "islocked": false
+        },
+        "3d02e9ce-3f71-4993-8490-19cf72467354": {
+            "size": {
+                "width": 100,
+                "height": 200
+            },
+            "mass": 2.8,
+            "intensity": 15,
+            "heatpipe_num": 1,
+            "origin": "",
+            "backups": [],
+            "board": "left_up",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1356,
+                170
+            ],
+            "comhp_index": [
+                11
+            ],
+            "comhp_index_opt": 11,
+            "islocked": false
+        },
+        "f31300cd-8653-471a-a5e0-722907d2007f": {
+            "size": {
+                "width": 100,
+                "height": 200
+            },
+            "mass": 2.8,
+            "intensity": 15,
+            "heatpipe_num": 1,
+            "origin": "",
+            "backups": [],
+            "board": "left_up",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1472,
+                171
+            ],
+            "comhp_index": [
+                12
+            ],
+            "comhp_index_opt": 12,
+            "islocked": false
+        },
+        "8b6ad90b-5e12-4664-8413-2054bd2781ab": {
+            "size": {
+                "width": 100,
+                "height": 200
+            },
+            "mass": 2.8,
+            "intensity": 15,
+            "heatpipe_num": 1,
+            "origin": "",
+            "backups": [],
+            "board": "left_up",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1585,
+                171
+            ],
+            "comhp_index": [
+                13
+            ],
+            "comhp_index_opt": 13,
+            "islocked": false
+        },
+        "bceef175-6ac0-4c08-9adb-ede67adb7d19": {
+            "size": {
+                "width": 100,
+                "height": 200
+            },
+            "mass": 2.8,
+            "intensity": 15,
+            "heatpipe_num": 1,
+            "origin": "",
+            "backups": [],
+            "board": "left_up",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1701,
+                170
+            ],
+            "comhp_index": [
+                14
+            ],
+            "comhp_index_opt": 14,
+            "islocked": false
+        },
+        "39a9849a-fee2-4142-acbe-d6f02773c158": {
+            "size": {
+                "width": 100,
+                "height": 200
+            },
+            "mass": 2.8,
+            "intensity": 15,
+            "heatpipe_num": 1,
+            "origin": "",
+            "backups": [],
+            "board": "left_up",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1815,
+                171
+            ],
+            "comhp_index": [
+                15
+            ],
+            "comhp_index_opt": 15,
+            "islocked": false
+        }
+    },
+    "groups": {},
+    "heatpipes": {
+        "L0": {
+            "width": 30,
+            "height": 2000,
+            "maxload": 120,
+            "location": {
+                "x": 192.6470588235294,
+                "y": 0
+            },
+            "board": "left"
+        },
+        "L1": {
+            "width": 30,
+            "height": 2000,
+            "maxload": 120,
+            "location": {
+                "x": 300.2941176470588,
+                "y": 0
+            },
+            "board": "left"
+        },
+        "L2": {
+            "width": 30,
+            "height": 2000,
+            "maxload": 120,
+            "location": {
+                "x": 407.94117647058823,
+                "y": 0
+            },
+            "board": "left"
+        },
+        "L3": {
+            "width": 30,
+            "height": 2000,
+            "maxload": 120,
+            "location": {
+                "x": 515.5882352941176,
+                "y": 0
+            },
+            "board": "left"
+        },
+        "L4": {
+            "width": 30,
+            "height": 2000,
+            "maxload": 120,
+            "location": {
+                "x": 623.2352941176471,
+                "y": 0
+            },
+            "board": "left"
+        },
+        "L5": {
+            "width": 30,
+            "height": 2000,
+            "maxload": 120,
+            "location": {
+                "x": 730.8823529411765,
+                "y": 0
+            },
+            "board": "left"
+        },
+        "L6": {
+            "width": 30,
+            "height": 2000,
+            "maxload": 120,
+            "location": {
+                "x": 838.5294117647059,
+                "y": 0
+            },
+            "board": "left"
+        },
+        "L7": {
+            "width": 30,
+            "height": 2000,
+            "maxload": 120,
+            "location": {
+                "x": 946.1764705882351,
+                "y": 0
+            },
+            "board": "left"
+        },
+        "L8": {
+            "width": 30,
+            "height": 2000,
+            "maxload": 120,
+            "location": {
+                "x": 1053.8235294117646,
+                "y": 0
+            },
+            "board": "left"
+        },
+        "L9": {
+            "width": 30,
+            "height": 2000,
+            "maxload": 120,
+            "location": {
+                "x": 1161.4705882352941,
+                "y": 0
+            },
+            "board": "left"
+        },
+        "L10": {
+            "width": 30,
+            "height": 2000,
+            "maxload": 120,
+            "location": {
+                "x": 1269.1176470588234,
+                "y": 0
+            },
+            "board": "left"
+        },
+        "L11": {
+            "width": 30,
+            "height": 2000,
+            "maxload": 120,
+            "location": {
+                "x": 1376.764705882353,
+                "y": 0
+            },
+            "board": "left"
+        },
+        "L12": {
+            "width": 30,
+            "height": 2000,
+            "maxload": 120,
+            "location": {
+                "x": 1484.4117647058824,
+                "y": 0
+            },
+            "board": "left"
+        },
+        "L13": {
+            "width": 30,
+            "height": 2000,
+            "maxload": 120,
+            "location": {
+                "x": 1592.0588235294117,
+                "y": 0
+            },
+            "board": "left"
+        },
+        "L14": {
+            "width": 30,
+            "height": 2000,
+            "maxload": 120,
+            "location": {
+                "x": 1699.705882352941,
+                "y": 0
+            },
+            "board": "left"
+        },
+        "L15": {
+            "width": 30,
+            "height": 2000,
+            "maxload": 120,
+            "location": {
+                "x": 1807.3529411764705,
+                "y": 0
+            },
+            "board": "left"
+        },
+        "R15": {
+            "width": 30,
+            "height": 2000,
+            "maxload": 120,
+            "location": {
+                "x": 1837.3529411764707,
+                "y": 0
+            },
+            "board": "right"
+        },
+        "R14": {
+            "width": 30,
+            "height": 2000,
+            "maxload": 120,
+            "location": {
+                "x": 1729.705882352941,
+                "y": 0
+            },
+            "board": "right"
+        },
+        "R13": {
+            "width": 30,
+            "height": 2000,
+            "maxload": 120,
+            "location": {
+                "x": 1622.0588235294117,
+                "y": 0
+            },
+            "board": "right"
+        },
+        "R12": {
+            "width": 30,
+            "height": 2000,
+            "maxload": 120,
+            "location": {
+                "x": 1514.4117647058824,
+                "y": 0
+            },
+            "board": "right"
+        },
+        "R11": {
+            "width": 30,
+            "height": 2000,
+            "maxload": 120,
+            "location": {
+                "x": 1406.7647058823532,
+                "y": 0
+            },
+            "board": "right"
+        },
+        "R10": {
+            "width": 30,
+            "height": 2000,
+            "maxload": 120,
+            "location": {
+                "x": 1299.1176470588234,
+                "y": 0
+            },
+            "board": "right"
+        },
+        "R9": {
+            "width": 30,
+            "height": 2000,
+            "maxload": 120,
+            "location": {
+                "x": 1191.4705882352941,
+                "y": 0
+            },
+            "board": "right"
+        },
+        "R8": {
+            "width": 30,
+            "height": 2000,
+            "maxload": 120,
+            "location": {
+                "x": 1083.8235294117649,
+                "y": 0
+            },
+            "board": "right"
+        },
+        "R7": {
+            "width": 30,
+            "height": 2000,
+            "maxload": 120,
+            "location": {
+                "x": 976.1764705882351,
+                "y": 0
+            },
+            "board": "right"
+        },
+        "R6": {
+            "width": 30,
+            "height": 2000,
+            "maxload": 120,
+            "location": {
+                "x": 868.5294117647059,
+                "y": 0
+            },
+            "board": "right"
+        },
+        "R5": {
+            "width": 30,
+            "height": 2000,
+            "maxload": 120,
+            "location": {
+                "x": 760.8823529411766,
+                "y": 0
+            },
+            "board": "right"
+        },
+        "R4": {
+            "width": 30,
+            "height": 2000,
+            "maxload": 120,
+            "location": {
+                "x": 653.2352941176468,
+                "y": 0
+            },
+            "board": "right"
+        },
+        "R3": {
+            "width": 30,
+            "height": 2000,
+            "maxload": 120,
+            "location": {
+                "x": 545.588235294118,
+                "y": 0
+            },
+            "board": "right"
+        },
+        "R2": {
+            "width": 30,
+            "height": 2000,
+            "maxload": 120,
+            "location": {
+                "x": 437.9411764705883,
+                "y": 0
+            },
+            "board": "right"
+        },
+        "R1": {
+            "width": 30,
+            "height": 2000,
+            "maxload": 120,
+            "location": {
+                "x": 330.29411764705947,
+                "y": 0
+            },
+            "board": "right"
+        },
+        "R0": {
+            "width": 30,
+            "height": 2000,
+            "maxload": 120,
+            "location": {
+                "x": 222.64705882352973,
+                "y": 0
+            },
+            "board": "right"
+        }
+    },
+    "route": {
+        "routes": [],
+        "route_connect": {},
+        "routes_max_length": -1,
+        "route_num": 0
+    },
+    "global": {
+        "backup_distance": 20
+    },
+    "stage1": {
+        "timelimit": 1,
+        "enableoutput": true
+    }
+}

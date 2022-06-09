@@ -1,0 +1,4098 @@
+{
+    "dom": {
+        "left": {
+            "up": {
+                "location": [
+                    100,
+                    50,
+                    1900,
+                    950
+                ],
+                "comp": [
+                    "769f0b4a-9502-4f40-9e4f-a9761d5de25c",
+                    "4b3cc375-5852-42ea-9f65-7d2c14f170c2",
+                    "29eaf559-b14b-441f-b19e-379d24353bbb",
+                    "97c6bd1b-b10e-4b90-a83e-0f1ca89db60f",
+                    "06a23981-bdf3-47cf-8758-ac3375dd1366",
+                    "dc059abf-e613-4986-8b11-2e1036bebd02",
+                    "4203e7eb-6f10-4fa3-8a12-ce70c9f528f1",
+                    "23e35029-037f-4efa-a592-0814a3c1322d",
+                    "767bb3ed-1e61-4061-b63d-529017565e54",
+                    "cf5f96e5-dc13-4e03-8c59-95629ecc3b66",
+                    "5e5f8ae9-9fff-472a-a659-789d9b6f3915",
+                    "6c86b81d-1df0-45b2-abf4-513ad7f75f7c",
+                    "23fae09d-2c29-4648-95d5-00ffe5a25c8f",
+                    "e883ffeb-8131-4a6c-8e7f-20d4b564dc85",
+                    "e1cd4061-e351-4808-8237-8688c14df5d3",
+                    "6ad1b10c-2062-44c1-92cb-82c4d4356285",
+                    "6c4dacb6-9366-4251-976c-a26cf4b89dbe",
+                    "2e1dce5f-d45e-4420-8515-fd1748d9391d",
+                    "a05bbd78-7995-4b86-8098-9ccfd410ed25",
+                    "d551221c-5b32-42de-b288-c384045319f1",
+                    "76cc2575-29a4-4b22-89c0-94fdde190d5c",
+                    "bd3d7878-f557-4fb2-a65c-1f8cac62b954",
+                    "baa78b31-1c89-420c-b97c-6fbc70f10d64"
+                ],
+                "heatpipe": [
+                    "L0",
+                    "L1",
+                    "L2",
+                    "L3",
+                    "L4",
+                    "L5",
+                    "L6",
+                    "L7",
+                    "L8",
+                    "L9",
+                    "L10",
+                    "L11",
+                    "L12",
+                    "L13",
+                    "L14",
+                    "L15"
+                ]
+            },
+            "down": {
+                "location": [
+                    100,
+                    -950,
+                    1900,
+                    -50
+                ],
+                "comp": [
+                    "172b4951-c095-44a2-a1cf-f42074ef5211",
+                    "ff645cc6-91e1-49b0-bcaf-c5ce3cd50acf",
+                    "2053ad9f-83d5-4777-9caf-2af65246a3bb",
+                    "5e558b47-fd6a-4c56-aaa6-214db5327ce4",
+                    "c6652f48-daa2-452d-aa39-1bd76f3dc381",
+                    "09bd605b-708b-4cbf-9342-d7bdff0f1727",
+                    "ec95c398-ae07-4a9e-b249-6b7de059a6e6",
+                    "e5c556d5-81b2-401b-98c2-7e8f769ccfd9",
+                    "7154dcad-90ff-4ee1-84dd-7b598525d4d3",
+                    "d6bba692-c7a4-4887-bd7d-2acefe1620dc",
+                    "e90aa6e0-1490-49fa-a3e5-05bbecf145ce",
+                    "44034798-c690-47ef-a817-e7fa46ffe447",
+                    "dedd9b10-e8a3-41dd-bea0-eef2f21dc904",
+                    "d687f846-83d1-45b1-985c-ed12f824f0c8",
+                    "ae192b73-cc81-4726-89ca-99cb58e8ea88",
+                    "ca129101-3f68-4447-8353-f28533970d8c",
+                    "9d5f02ad-cc55-4b14-a44c-7a467854c654",
+                    "7e5bf285-7cb6-4ebc-8343-baaddef06a67",
+                    "191999af-ca6b-4d0c-8b25-9af897c7aa3a",
+                    "e19f43d6-a182-49fb-9ea7-828137afe241",
+                    "db4373cd-3a72-41e8-9f1e-c244a247b229",
+                    "a4a340f2-1869-4f84-8b57-f5981e54ceae"
+                ],
+                "heatpipe": [
+                    "L0",
+                    "L1",
+                    "L2",
+                    "L3",
+                    "L4",
+                    "L5",
+                    "L6",
+                    "L7",
+                    "L8",
+                    "L9",
+                    "L10",
+                    "L11",
+                    "L12",
+                    "L13",
+                    "L14",
+                    "L15"
+                ]
+            },
+            "width": 2000,
+            "height": 2000,
+            "heatpipe": [
+                "L0",
+                "L1",
+                "L2",
+                "L3",
+                "L4",
+                "L5",
+                "L6",
+                "L7",
+                "L8",
+                "L9",
+                "L10",
+                "L11",
+                "L12",
+                "L13",
+                "L14",
+                "L15"
+            ],
+            "location": [
+                0,
+                -1000,
+                2000,
+                1000
+            ]
+        },
+        "right": {
+            "up": {
+                "location": [
+                    100,
+                    50,
+                    1900,
+                    950
+                ],
+                "comp": [
+                    "c376708a-2dca-44c8-bdf6-27ed54e187f8",
+                    "8bab504c-ae17-46b7-86a2-5e5d2c1f1fa1",
+                    "404ebc39-d344-4870-b98b-96c30d3b5256",
+                    "b74b94f7-0698-45a5-aac9-dc1bd29a714e",
+                    "39d043a2-99b8-4735-b656-8a1f68e5e30a",
+                    "30a83a85-deac-49f3-b404-b2e7199ad27e",
+                    "e492bcb5-ebf9-4891-abce-c5547630df73",
+                    "2ef640d8-3836-4fd4-9353-e9f58d46d133",
+                    "7ca507cd-c83d-488e-bc86-47bdfdb061fd",
+                    "ac3982c5-211e-48c6-a2ee-6f2a7b84fd69",
+                    "de155dfa-84cb-4166-92e7-ce7f817a6ee5",
+                    "5d7f4706-94a0-423f-be05-ec07a700c412",
+                    "80ffe9cc-5c2d-4f1b-9fd3-6c250c754e5d",
+                    "cec06e6c-d2b4-4938-8128-5ded5c362a82",
+                    "3775d3e6-facd-44b2-9614-842691c15159",
+                    "c277d74d-918c-455c-9a47-6dd131c13e67",
+                    "2c3a2bfe-b81d-48b7-9dc0-b1833bde448f",
+                    "f16bec74-411a-4041-aec8-dd6159358d65",
+                    "d39773cb-0267-41a3-ba9b-59d5c29a9532",
+                    "f4a8d7ad-a3fc-4821-b1ac-a31f98183408",
+                    "b368b8c9-e2cd-4c5f-99d8-459786e0b5ff",
+                    "4a159bc6-31eb-4d53-9648-64aabcaabc30",
+                    "39c48a54-bd2c-44fb-bc71-b2d855732cbd"
+                ],
+                "heatpipe": [
+                    "R0",
+                    "R1",
+                    "R2",
+                    "R3",
+                    "R4",
+                    "R5",
+                    "R6",
+                    "R7",
+                    "R8",
+                    "R9",
+                    "R10",
+                    "R11",
+                    "R12",
+                    "R13",
+                    "R14",
+                    "R15"
+                ]
+            },
+            "down": {
+                "location": [
+                    100,
+                    -950,
+                    1900,
+                    -50
+                ],
+                "comp": [
+                    "fd44d3de-51a5-44cf-add1-ab80b71183c1",
+                    "c75ce770-bb6f-41ab-bed5-7770225c8551",
+                    "3f50ca25-7db3-41a7-a010-f0d191ddeb72",
+                    "bdbe6ed9-6861-4c1d-8800-fb3e2a98c3fc",
+                    "7bec2eff-c48a-4f90-9f51-ca20bd973b07",
+                    "b8a1fe6f-59c8-4f0a-94a5-9139e98edb0b",
+                    "09665c36-c469-46dd-8a5b-212523e7fc3b",
+                    "b9280314-abdb-4e99-abba-40fd32c48e27",
+                    "f099afdc-4855-4382-add5-bb33a7a00963",
+                    "c45895cc-e074-489a-b761-3ef52895969a",
+                    "f89ca934-4970-4587-9c70-7c245997828f",
+                    "829b9aa6-11a7-4911-81bc-23633960ee63",
+                    "f465d13f-4de5-40e7-b605-99b7e21d2976",
+                    "ecd3bd6c-d219-48af-9fd9-ecb4f8b0830c",
+                    "50173e3a-1ea7-4edb-a814-8eeba67bf4df",
+                    "9195d96c-7bf5-4e13-adb1-f83451e0dbed",
+                    "0cfaf9a7-5a27-4384-a6cb-1fe91127622b",
+                    "b9600459-907b-40c1-abaa-8b45dc228a7b",
+                    "7d1b3952-2ac4-4977-8afa-75fe7b5d127d",
+                    "7c0c0f07-abd5-4134-85c4-0865b2eea81f",
+                    "7dc3044d-d4ab-4f51-8eda-2f4b432d1b08",
+                    "b8736926-3700-4171-828b-4366500e845b"
+                ],
+                "heatpipe": [
+                    "R0",
+                    "R1",
+                    "R2",
+                    "R3",
+                    "R4",
+                    "R5",
+                    "R6",
+                    "R7",
+                    "R8",
+                    "R9",
+                    "R10",
+                    "R11",
+                    "R12",
+                    "R13",
+                    "R14",
+                    "R15"
+                ]
+            },
+            "width": 2000,
+            "height": 2000,
+            "heatpipe": [
+                "R0",
+                "R1",
+                "R2",
+                "R3",
+                "R4",
+                "R5",
+                "R6",
+                "R7",
+                "R8",
+                "R9",
+                "R10",
+                "R11",
+                "R12",
+                "R13",
+                "R14",
+                "R15"
+            ],
+            "location": [
+                0,
+                -1000,
+                2000,
+                1000
+            ]
+        },
+        "center": {
+            "location": [
+                -250,
+                -1000,
+                250,
+                1000
+            ],
+            "width": 500,
+            "height": 2000,
+            "comp": []
+        }
+    },
+    "comps": {
+        "172b4951-c095-44a2-a1cf-f42074ef5211": {
+            "size": {
+                "width": 220,
+                "height": 220
+            },
+            "mass": 10,
+            "intensity": 42.5,
+            "heatpipe_num": 2,
+            "origin": "",
+            "backups": [],
+            "board": "left_down",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                893,
+                -196
+            ],
+            "comhp_index": [
+                6,
+                7
+            ],
+            "comhp_index_opt": 6,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "ff645cc6-91e1-49b0-bcaf-c5ce3cd50acf": {
+            "size": {
+                "width": 200,
+                "height": 100
+            },
+            "mass": 6.5,
+            "intensity": 70,
+            "heatpipe_num": 2,
+            "origin": "",
+            "backups": [],
+            "board": "left_down",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1760,
+                -316
+            ],
+            "comhp_index": [
+                14,
+                15
+            ],
+            "comhp_index_opt": 14,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "2053ad9f-83d5-4777-9caf-2af65246a3bb": {
+            "size": {
+                "width": 200,
+                "height": 100
+            },
+            "mass": 6.5,
+            "intensity": 70,
+            "heatpipe_num": 2,
+            "origin": "",
+            "backups": [],
+            "board": "left_down",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1535,
+                -362
+            ],
+            "comhp_index": [
+                12,
+                13
+            ],
+            "comhp_index_opt": 12,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "5e558b47-fd6a-4c56-aaa6-214db5327ce4": {
+            "size": {
+                "width": 200,
+                "height": 100
+            },
+            "mass": 6.5,
+            "intensity": 70,
+            "heatpipe_num": 2,
+            "origin": "",
+            "backups": [],
+            "board": "left_down",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1756,
+                -585
+            ],
+            "comhp_index": [
+                14,
+                15
+            ],
+            "comhp_index_opt": 14,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "c6652f48-daa2-452d-aa39-1bd76f3dc381": {
+            "size": {
+                "width": 280,
+                "height": 120
+            },
+            "mass": 4.6,
+            "intensity": 55,
+            "heatpipe_num": 3,
+            "origin": "",
+            "backups": [],
+            "board": "left_down",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1377,
+                -559
+            ],
+            "comhp_index": [
+                10,
+                11,
+                12
+            ],
+            "comhp_index_opt": 10,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "09bd605b-708b-4cbf-9342-d7bdff0f1727": {
+            "size": {
+                "width": 280,
+                "height": 120
+            },
+            "mass": 4.6,
+            "intensity": 55,
+            "heatpipe_num": 3,
+            "origin": "",
+            "backups": [],
+            "board": "left_down",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1595,
+                -741
+            ],
+            "comhp_index": [
+                12,
+                13,
+                14
+            ],
+            "comhp_index_opt": 12,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "ec95c398-ae07-4a9e-b249-6b7de059a6e6": {
+            "size": {
+                "width": 120,
+                "height": 100
+            },
+            "mass": 3,
+            "intensity": 26,
+            "heatpipe_num": 1,
+            "origin": "",
+            "backups": [],
+            "board": "left_down",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                856,
+                -378
+            ],
+            "comhp_index": [
+                6
+            ],
+            "comhp_index_opt": 6,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "e5c556d5-81b2-401b-98c2-7e8f769ccfd9": {
+            "size": {
+                "width": 120,
+                "height": 100
+            },
+            "mass": 3,
+            "intensity": 26,
+            "heatpipe_num": 1,
+            "origin": "",
+            "backups": [],
+            "board": "left_down",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                930,
+                -571
+            ],
+            "comhp_index": [
+                7
+            ],
+            "comhp_index_opt": 7,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "7154dcad-90ff-4ee1-84dd-7b598525d4d3": {
+            "size": {
+                "width": 120,
+                "height": 100
+            },
+            "mass": 3,
+            "intensity": 26,
+            "heatpipe_num": 1,
+            "origin": "",
+            "backups": [],
+            "board": "left_down",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1044,
+                -371
+            ],
+            "comhp_index": [
+                8
+            ],
+            "comhp_index_opt": 8,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "d6bba692-c7a4-4887-bd7d-2acefe1620dc": {
+            "size": {
+                "width": 180,
+                "height": 150
+            },
+            "mass": 4,
+            "intensity": 32,
+            "heatpipe_num": 2,
+            "origin": "",
+            "backups": [],
+            "board": "left_down",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                343,
+                -169
+            ],
+            "comhp_index": [
+                1,
+                2
+            ],
+            "comhp_index_opt": 1,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "e90aa6e0-1490-49fa-a3e5-05bbecf145ce": {
+            "size": {
+                "width": 180,
+                "height": 150
+            },
+            "mass": 4,
+            "intensity": 32,
+            "heatpipe_num": 2,
+            "origin": "",
+            "backups": [],
+            "board": "left_down",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                241,
+                -351
+            ],
+            "comhp_index": [
+                0,
+                1
+            ],
+            "comhp_index_opt": 0,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "44034798-c690-47ef-a817-e7fa46ffe447": {
+            "size": {
+                "width": 100,
+                "height": 200
+            },
+            "mass": 2.8,
+            "intensity": 15,
+            "heatpipe_num": 1,
+            "origin": "",
+            "backups": [],
+            "board": "left_down",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                723,
+                -512
+            ],
+            "comhp_index": [
+                5
+            ],
+            "comhp_index_opt": 5,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "dedd9b10-e8a3-41dd-bea0-eef2f21dc904": {
+            "size": {
+                "width": 100,
+                "height": 200
+            },
+            "mass": 2.8,
+            "intensity": 15,
+            "heatpipe_num": 1,
+            "origin": "",
+            "backups": [],
+            "board": "left_down",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                413,
+                -516
+            ],
+            "comhp_index": [
+                2
+            ],
+            "comhp_index_opt": 2,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "d687f846-83d1-45b1-985c-ed12f824f0c8": {
+            "size": {
+                "width": 100,
+                "height": 200
+            },
+            "mass": 2.8,
+            "intensity": 15,
+            "heatpipe_num": 1,
+            "origin": "",
+            "backups": [],
+            "board": "left_down",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                535,
+                -513
+            ],
+            "comhp_index": [
+                3
+            ],
+            "comhp_index_opt": 3,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "ae192b73-cc81-4726-89ca-99cb58e8ea88": {
+            "size": {
+                "width": 80,
+                "height": 80
+            },
+            "mass": 2.6,
+            "intensity": 6.5,
+            "heatpipe_num": 1,
+            "origin": "",
+            "backups": [],
+            "board": "left_down",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1046,
+                -482
+            ],
+            "comhp_index": [
+                8
+            ],
+            "comhp_index_opt": 8,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "ca129101-3f68-4447-8353-f28533970d8c": {
+            "size": {
+                "width": 80,
+                "height": 80
+            },
+            "mass": 2.6,
+            "intensity": 6.5,
+            "heatpipe_num": 1,
+            "origin": "",
+            "backups": [],
+            "board": "left_down",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1045,
+                -578
+            ],
+            "comhp_index": [
+                8
+            ],
+            "comhp_index_opt": 8,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "9d5f02ad-cc55-4b14-a44c-7a467854c654": {
+            "size": {
+                "width": 200,
+                "height": 60
+            },
+            "mass": 3,
+            "intensity": 30,
+            "heatpipe_num": 2,
+            "origin": "",
+            "backups": [],
+            "board": "left_down",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1762,
+                -864
+            ],
+            "comhp_index": [
+                14,
+                15
+            ],
+            "comhp_index_opt": 14,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "7e5bf285-7cb6-4ebc-8343-baaddef06a67": {
+            "size": {
+                "width": 200,
+                "height": 60
+            },
+            "mass": 3,
+            "intensity": 30,
+            "heatpipe_num": 2,
+            "origin": "",
+            "backups": [],
+            "board": "left_down",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1541,
+                -870
+            ],
+            "comhp_index": [
+                12,
+                13
+            ],
+            "comhp_index_opt": 12,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "191999af-ca6b-4d0c-8b25-9af897c7aa3a": {
+            "size": {
+                "width": 220,
+                "height": 220
+            },
+            "mass": 10,
+            "intensity": 42.5,
+            "heatpipe_num": 2,
+            "origin": "",
+            "backups": [],
+            "board": "left_down",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                566,
+                -284
+            ],
+            "comhp_index": [
+                3,
+                4
+            ],
+            "comhp_index_opt": 3,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "e19f43d6-a182-49fb-9ea7-828137afe241": {
+            "size": {
+                "width": 220,
+                "height": 220
+            },
+            "mass": 10,
+            "intensity": 42.5,
+            "heatpipe_num": 2,
+            "origin": "",
+            "backups": [],
+            "board": "left_down",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1224,
+                -197
+            ],
+            "comhp_index": [
+                9,
+                10
+            ],
+            "comhp_index_opt": 9,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "db4373cd-3a72-41e8-9f1e-c244a247b229": {
+            "size": {
+                "width": 90,
+                "height": 160
+            },
+            "mass": 7.5,
+            "intensity": 8,
+            "heatpipe_num": 1,
+            "origin": "",
+            "backups": [],
+            "board": "left_down",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1597,
+                -517
+            ],
+            "comhp_index": [
+                13
+            ],
+            "comhp_index_opt": 13,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "a4a340f2-1869-4f84-8b57-f5981e54ceae": {
+            "size": {
+                "width": 90,
+                "height": 160
+            },
+            "mass": 7.5,
+            "intensity": 8,
+            "heatpipe_num": 1,
+            "origin": "",
+            "backups": [],
+            "board": "left_down",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1157,
+                -527
+            ],
+            "comhp_index": [
+                9
+            ],
+            "comhp_index_opt": 9,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "769f0b4a-9502-4f40-9e4f-a9761d5de25c": {
+            "size": {
+                "width": 200,
+                "height": 100
+            },
+            "mass": 6.5,
+            "intensity": 70,
+            "heatpipe_num": 2,
+            "origin": "",
+            "backups": [],
+            "board": "left_up",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                241,
+                740
+            ],
+            "comhp_index": [
+                0,
+                1
+            ],
+            "comhp_index_opt": 0,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "4b3cc375-5852-42ea-9f65-7d2c14f170c2": {
+            "size": {
+                "width": 280,
+                "height": 120
+            },
+            "mass": 4.6,
+            "intensity": 55,
+            "heatpipe_num": 3,
+            "origin": "",
+            "backups": [],
+            "board": "left_up",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                507,
+                838
+            ],
+            "comhp_index": [
+                2,
+                3,
+                4
+            ],
+            "comhp_index_opt": 2,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "29eaf559-b14b-441f-b19e-379d24353bbb": {
+            "size": {
+                "width": 120,
+                "height": 100
+            },
+            "mass": 3,
+            "intensity": 26,
+            "heatpipe_num": 1,
+            "origin": "",
+            "backups": [],
+            "board": "left_up",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                740,
+                840
+            ],
+            "comhp_index": [
+                5
+            ],
+            "comhp_index_opt": 5,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "97c6bd1b-b10e-4b90-a83e-0f1ca89db60f": {
+            "size": {
+                "width": 180,
+                "height": 150
+            },
+            "mass": 4,
+            "intensity": 32,
+            "heatpipe_num": 2,
+            "origin": "",
+            "backups": [],
+            "board": "left_up",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                895,
+                525
+            ],
+            "comhp_index": [
+                6,
+                7
+            ],
+            "comhp_index_opt": 6,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "06a23981-bdf3-47cf-8758-ac3375dd1366": {
+            "size": {
+                "width": 100,
+                "height": 200
+            },
+            "mass": 2.8,
+            "intensity": 15,
+            "heatpipe_num": 1,
+            "origin": "",
+            "backups": [],
+            "board": "left_up",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                617,
+                350
+            ],
+            "comhp_index": [
+                4
+            ],
+            "comhp_index_opt": 4,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "dc059abf-e613-4986-8b11-2e1036bebd02": {
+            "size": {
+                "width": 80,
+                "height": 80
+            },
+            "mass": 2.6,
+            "intensity": 6.5,
+            "heatpipe_num": 1,
+            "origin": "",
+            "backups": [],
+            "board": "left_up",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                193,
+                238
+            ],
+            "comhp_index": [
+                0
+            ],
+            "comhp_index_opt": 0,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "4203e7eb-6f10-4fa3-8a12-ce70c9f528f1": {
+            "size": {
+                "width": 200,
+                "height": 60
+            },
+            "mass": 8,
+            "intensity": 35,
+            "heatpipe_num": 2,
+            "origin": "",
+            "backups": [],
+            "board": "left_up",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1320,
+                650
+            ],
+            "comhp_index": [
+                10,
+                11
+            ],
+            "comhp_index_opt": 10,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "23e35029-037f-4efa-a592-0814a3c1322d": {
+            "size": {
+                "width": 200,
+                "height": 100
+            },
+            "mass": 6.5,
+            "intensity": 70,
+            "heatpipe_num": 2,
+            "origin": "",
+            "backups": [],
+            "board": "left_up",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                243,
+                599
+            ],
+            "comhp_index": [
+                0,
+                1
+            ],
+            "comhp_index_opt": 0,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "767bb3ed-1e61-4061-b63d-529017565e54": {
+            "size": {
+                "width": 280,
+                "height": 120
+            },
+            "mass": 4.6,
+            "intensity": 55,
+            "heatpipe_num": 3,
+            "origin": "",
+            "backups": [],
+            "board": "left_up",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                510,
+                682
+            ],
+            "comhp_index": [
+                2,
+                3,
+                4
+            ],
+            "comhp_index_opt": 2,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "cf5f96e5-dc13-4e03-8c59-95629ecc3b66": {
+            "size": {
+                "width": 280,
+                "height": 120
+            },
+            "mass": 4.6,
+            "intensity": 55,
+            "heatpipe_num": 3,
+            "origin": "",
+            "backups": [],
+            "board": "left_up",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                506,
+                546
+            ],
+            "comhp_index": [
+                2,
+                3,
+                4
+            ],
+            "comhp_index_opt": 2,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "5e5f8ae9-9fff-472a-a659-789d9b6f3915": {
+            "size": {
+                "width": 120,
+                "height": 100
+            },
+            "mass": 3,
+            "intensity": 26,
+            "heatpipe_num": 1,
+            "origin": "",
+            "backups": [],
+            "board": "left_up",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                730,
+                682
+            ],
+            "comhp_index": [
+                5
+            ],
+            "comhp_index_opt": 5,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "6c86b81d-1df0-45b2-abf4-513ad7f75f7c": {
+            "size": {
+                "width": 180,
+                "height": 150
+            },
+            "mass": 4,
+            "intensity": 32,
+            "heatpipe_num": 2,
+            "origin": "",
+            "backups": [],
+            "board": "left_up",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                889,
+                343
+            ],
+            "comhp_index": [
+                6,
+                7
+            ],
+            "comhp_index_opt": 6,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "23fae09d-2c29-4648-95d5-00ffe5a25c8f": {
+            "size": {
+                "width": 180,
+                "height": 150
+            },
+            "mass": 4,
+            "intensity": 32,
+            "heatpipe_num": 2,
+            "origin": "",
+            "backups": [],
+            "board": "left_up",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                888,
+                169
+            ],
+            "comhp_index": [
+                6,
+                7
+            ],
+            "comhp_index_opt": 6,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "e883ffeb-8131-4a6c-8e7f-20d4b564dc85": {
+            "size": {
+                "width": 100,
+                "height": 200
+            },
+            "mass": 2.8,
+            "intensity": 15,
+            "heatpipe_num": 1,
+            "origin": "",
+            "backups": [],
+            "board": "left_up",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                738,
+                344
+            ],
+            "comhp_index": [
+                5
+            ],
+            "comhp_index_opt": 5,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "e1cd4061-e351-4808-8237-8688c14df5d3": {
+            "size": {
+                "width": 80,
+                "height": 80
+            },
+            "mass": 2.6,
+            "intensity": 6.5,
+            "heatpipe_num": 1,
+            "origin": "",
+            "backups": [],
+            "board": "left_up",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                199,
+                349
+            ],
+            "comhp_index": [
+                0
+            ],
+            "comhp_index_opt": 0,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "6ad1b10c-2062-44c1-92cb-82c4d4356285": {
+            "size": {
+                "width": 80,
+                "height": 80
+            },
+            "mass": 2.6,
+            "intensity": 6.5,
+            "heatpipe_num": 1,
+            "origin": "",
+            "backups": [],
+            "board": "left_up",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                198,
+                130
+            ],
+            "comhp_index": [
+                0
+            ],
+            "comhp_index_opt": 0,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "6c4dacb6-9366-4251-976c-a26cf4b89dbe": {
+            "size": {
+                "width": 200,
+                "height": 60
+            },
+            "mass": 3,
+            "intensity": 30,
+            "heatpipe_num": 2,
+            "origin": "",
+            "backups": [],
+            "board": "left_up",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1215,
+                872
+            ],
+            "comhp_index": [
+                9,
+                10
+            ],
+            "comhp_index_opt": 9,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "2e1dce5f-d45e-4420-8515-fd1748d9391d": {
+            "size": {
+                "width": 200,
+                "height": 60
+            },
+            "mass": 3,
+            "intensity": 30,
+            "heatpipe_num": 2,
+            "origin": "",
+            "backups": [],
+            "board": "left_up",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1217,
+                779
+            ],
+            "comhp_index": [
+                9,
+                10
+            ],
+            "comhp_index_opt": 9,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "a05bbd78-7995-4b86-8098-9ccfd410ed25": {
+            "size": {
+                "width": 220,
+                "height": 220
+            },
+            "mass": 10,
+            "intensity": 42.5,
+            "heatpipe_num": 2,
+            "origin": "",
+            "backups": [],
+            "board": "left_up",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1122,
+                453
+            ],
+            "comhp_index": [
+                8,
+                9
+            ],
+            "comhp_index_opt": 8,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "d551221c-5b32-42de-b288-c384045319f1": {
+            "size": {
+                "width": 220,
+                "height": 220
+            },
+            "mass": 10,
+            "intensity": 42.5,
+            "heatpipe_num": 2,
+            "origin": "",
+            "backups": [],
+            "board": "left_up",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1114,
+                207
+            ],
+            "comhp_index": [
+                8,
+                9
+            ],
+            "comhp_index_opt": 8,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "76cc2575-29a4-4b22-89c0-94fdde190d5c": {
+            "size": {
+                "width": 90,
+                "height": 160
+            },
+            "mass": 7.5,
+            "intensity": 8,
+            "heatpipe_num": 1,
+            "origin": "",
+            "backups": [],
+            "board": "left_up",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                395,
+                146
+            ],
+            "comhp_index": [
+                2
+            ],
+            "comhp_index_opt": 2,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "bd3d7878-f557-4fb2-a65c-1f8cac62b954": {
+            "size": {
+                "width": 90,
+                "height": 160
+            },
+            "mass": 7.5,
+            "intensity": 8,
+            "heatpipe_num": 1,
+            "origin": "",
+            "backups": [],
+            "board": "left_up",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                510,
+                149
+            ],
+            "comhp_index": [
+                3
+            ],
+            "comhp_index_opt": 3,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "baa78b31-1c89-420c-b97c-6fbc70f10d64": {
+            "size": {
+                "width": 90,
+                "height": 160
+            },
+            "mass": 7.5,
+            "intensity": 8,
+            "heatpipe_num": 1,
+            "origin": "",
+            "backups": [],
+            "board": "left_up",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                622,
+                148
+            ],
+            "comhp_index": [
+                4
+            ],
+            "comhp_index_opt": 4,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "fd44d3de-51a5-44cf-add1-ab80b71183c1": {
+            "size": {
+                "width": 220,
+                "height": 220
+            },
+            "mass": 10,
+            "intensity": 42.5,
+            "heatpipe_num": 2,
+            "origin": "",
+            "backups": [],
+            "board": "right_down",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1113,
+                -208
+            ],
+            "comhp_index": [
+                8,
+                9
+            ],
+            "comhp_index_opt": 8,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "c75ce770-bb6f-41ab-bed5-7770225c8551": {
+            "size": {
+                "width": 200,
+                "height": 100
+            },
+            "mass": 6.5,
+            "intensity": 70,
+            "heatpipe_num": 2,
+            "origin": "",
+            "backups": [],
+            "board": "right_down",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                250,
+                -169
+            ],
+            "comhp_index": [
+                0,
+                1
+            ],
+            "comhp_index_opt": 0,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "3f50ca25-7db3-41a7-a010-f0d191ddeb72": {
+            "size": {
+                "width": 200,
+                "height": 100
+            },
+            "mass": 6.5,
+            "intensity": 70,
+            "heatpipe_num": 2,
+            "origin": "",
+            "backups": [],
+            "board": "right_down",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                470,
+                -167
+            ],
+            "comhp_index": [
+                2,
+                3
+            ],
+            "comhp_index_opt": 2,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "bdbe6ed9-6861-4c1d-8800-fb3e2a98c3fc": {
+            "size": {
+                "width": 200,
+                "height": 100
+            },
+            "mass": 6.5,
+            "intensity": 70,
+            "heatpipe_num": 2,
+            "origin": "",
+            "backups": [],
+            "board": "right_down",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                250,
+                -376
+            ],
+            "comhp_index": [
+                0,
+                1
+            ],
+            "comhp_index_opt": 0,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "7bec2eff-c48a-4f90-9f51-ca20bd973b07": {
+            "size": {
+                "width": 280,
+                "height": 120
+            },
+            "mass": 4.6,
+            "intensity": 55,
+            "heatpipe_num": 3,
+            "origin": "",
+            "backups": [],
+            "board": "right_down",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                627,
+                -569
+            ],
+            "comhp_index": [
+                3,
+                4,
+                5
+            ],
+            "comhp_index_opt": 3,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "b8a1fe6f-59c8-4f0a-94a5-9139e98edb0b": {
+            "size": {
+                "width": 280,
+                "height": 120
+            },
+            "mass": 4.6,
+            "intensity": 55,
+            "heatpipe_num": 3,
+            "origin": "",
+            "backups": [],
+            "board": "right_down",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                411,
+                -753
+            ],
+            "comhp_index": [
+                1,
+                2,
+                3
+            ],
+            "comhp_index_opt": 1,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "09665c36-c469-46dd-8a5b-212523e7fc3b": {
+            "size": {
+                "width": 120,
+                "height": 100
+            },
+            "mass": 3,
+            "intensity": 26,
+            "heatpipe_num": 1,
+            "origin": "",
+            "backups": [],
+            "board": "right_down",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1150,
+                -390
+            ],
+            "comhp_index": [
+                9
+            ],
+            "comhp_index_opt": 9,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "b9280314-abdb-4e99-abba-40fd32c48e27": {
+            "size": {
+                "width": 120,
+                "height": 100
+            },
+            "mass": 3,
+            "intensity": 26,
+            "heatpipe_num": 1,
+            "origin": "",
+            "backups": [],
+            "board": "right_down",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1076,
+                -583
+            ],
+            "comhp_index": [
+                8
+            ],
+            "comhp_index_opt": 8,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "f099afdc-4855-4382-add5-bb33a7a00963": {
+            "size": {
+                "width": 120,
+                "height": 100
+            },
+            "mass": 3,
+            "intensity": 26,
+            "heatpipe_num": 1,
+            "origin": "",
+            "backups": [],
+            "board": "right_down",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                969,
+                -386
+            ],
+            "comhp_index": [
+                7
+            ],
+            "comhp_index_opt": 7,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "c45895cc-e074-489a-b761-3ef52895969a": {
+            "size": {
+                "width": 180,
+                "height": 150
+            },
+            "mass": 4,
+            "intensity": 32,
+            "heatpipe_num": 2,
+            "origin": "",
+            "backups": [],
+            "board": "right_down",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1649,
+                -176
+            ],
+            "comhp_index": [
+                13,
+                14
+            ],
+            "comhp_index_opt": 13,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "f89ca934-4970-4587-9c70-7c245997828f": {
+            "size": {
+                "width": 180,
+                "height": 150
+            },
+            "mass": 4,
+            "intensity": 32,
+            "heatpipe_num": 2,
+            "origin": "",
+            "backups": [],
+            "board": "right_down",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1758,
+                -538
+            ],
+            "comhp_index": [
+                14,
+                15
+            ],
+            "comhp_index_opt": 14,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "829b9aa6-11a7-4911-81bc-23633960ee63": {
+            "size": {
+                "width": 100,
+                "height": 200
+            },
+            "mass": 2.8,
+            "intensity": 15,
+            "heatpipe_num": 1,
+            "origin": "",
+            "backups": [],
+            "board": "right_down",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1279,
+                -524
+            ],
+            "comhp_index": [
+                10
+            ],
+            "comhp_index_opt": 10,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "f465d13f-4de5-40e7-b605-99b7e21d2976": {
+            "size": {
+                "width": 100,
+                "height": 200
+            },
+            "mass": 2.8,
+            "intensity": 15,
+            "heatpipe_num": 1,
+            "origin": "",
+            "backups": [],
+            "board": "right_down",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1593,
+                -528
+            ],
+            "comhp_index": [
+                13
+            ],
+            "comhp_index_opt": 13,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "ecd3bd6c-d219-48af-9fd9-ecb4f8b0830c": {
+            "size": {
+                "width": 100,
+                "height": 200
+            },
+            "mass": 2.8,
+            "intensity": 15,
+            "heatpipe_num": 1,
+            "origin": "",
+            "backups": [],
+            "board": "right_down",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1471,
+                -525
+            ],
+            "comhp_index": [
+                12
+            ],
+            "comhp_index_opt": 12,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "50173e3a-1ea7-4edb-a814-8eeba67bf4df": {
+            "size": {
+                "width": 80,
+                "height": 80
+            },
+            "mass": 2.6,
+            "intensity": 6.5,
+            "heatpipe_num": 1,
+            "origin": "",
+            "backups": [],
+            "board": "right_down",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                960,
+                -494
+            ],
+            "comhp_index": [
+                7
+            ],
+            "comhp_index_opt": 7,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "9195d96c-7bf5-4e13-adb1-f83451e0dbed": {
+            "size": {
+                "width": 80,
+                "height": 80
+            },
+            "mass": 2.6,
+            "intensity": 6.5,
+            "heatpipe_num": 1,
+            "origin": "",
+            "backups": [],
+            "board": "right_down",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                961,
+                -590
+            ],
+            "comhp_index": [
+                7
+            ],
+            "comhp_index_opt": 7,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "0cfaf9a7-5a27-4384-a6cb-1fe91127622b": {
+            "size": {
+                "width": 200,
+                "height": 60
+            },
+            "mass": 3,
+            "intensity": 30,
+            "heatpipe_num": 2,
+            "origin": "",
+            "backups": [],
+            "board": "right_down",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                244,
+                -887
+            ],
+            "comhp_index": [
+                0,
+                1
+            ],
+            "comhp_index_opt": 0,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "b9600459-907b-40c1-abaa-8b45dc228a7b": {
+            "size": {
+                "width": 200,
+                "height": 60
+            },
+            "mass": 3,
+            "intensity": 30,
+            "heatpipe_num": 2,
+            "origin": "",
+            "backups": [],
+            "board": "right_down",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                465,
+                -882
+            ],
+            "comhp_index": [
+                2,
+                3
+            ],
+            "comhp_index_opt": 2,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "7d1b3952-2ac4-4977-8afa-75fe7b5d127d": {
+            "size": {
+                "width": 220,
+                "height": 220
+            },
+            "mass": 10,
+            "intensity": 42.5,
+            "heatpipe_num": 2,
+            "origin": "",
+            "backups": [],
+            "board": "right_down",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1436,
+                -272
+            ],
+            "comhp_index": [
+                11,
+                12
+            ],
+            "comhp_index_opt": 11,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "7c0c0f07-abd5-4134-85c4-0865b2eea81f": {
+            "size": {
+                "width": 220,
+                "height": 220
+            },
+            "mass": 10,
+            "intensity": 42.5,
+            "heatpipe_num": 2,
+            "origin": "",
+            "backups": [],
+            "board": "right_down",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                775,
+                -329
+            ],
+            "comhp_index": [
+                5,
+                6
+            ],
+            "comhp_index_opt": 5,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "7dc3044d-d4ab-4f51-8eda-2f4b432d1b08": {
+            "size": {
+                "width": 90,
+                "height": 160
+            },
+            "mass": 7.5,
+            "intensity": 8,
+            "heatpipe_num": 1,
+            "origin": "",
+            "backups": [],
+            "board": "right_down",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                409,
+                -529
+            ],
+            "comhp_index": [
+                2
+            ],
+            "comhp_index_opt": 2,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "b8736926-3700-4171-828b-4366500e845b": {
+            "size": {
+                "width": 90,
+                "height": 160
+            },
+            "mass": 7.5,
+            "intensity": 8,
+            "heatpipe_num": 1,
+            "origin": "",
+            "backups": [],
+            "board": "right_down",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                849,
+                -539
+            ],
+            "comhp_index": [
+                6
+            ],
+            "comhp_index_opt": 6,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "c376708a-2dca-44c8-bdf6-27ed54e187f8": {
+            "size": {
+                "width": 200,
+                "height": 100
+            },
+            "mass": 6.5,
+            "intensity": 70,
+            "heatpipe_num": 2,
+            "origin": "",
+            "backups": [],
+            "board": "right_up",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1758,
+                751
+            ],
+            "comhp_index": [
+                14,
+                15
+            ],
+            "comhp_index_opt": 14,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "8bab504c-ae17-46b7-86a2-5e5d2c1f1fa1": {
+            "size": {
+                "width": 280,
+                "height": 120
+            },
+            "mass": 4.6,
+            "intensity": 55,
+            "heatpipe_num": 3,
+            "origin": "",
+            "backups": [],
+            "board": "right_up",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1492,
+                849
+            ],
+            "comhp_index": [
+                11,
+                12,
+                13
+            ],
+            "comhp_index_opt": 11,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "404ebc39-d344-4870-b98b-96c30d3b5256": {
+            "size": {
+                "width": 120,
+                "height": 100
+            },
+            "mass": 3,
+            "intensity": 26,
+            "heatpipe_num": 1,
+            "origin": "",
+            "backups": [],
+            "board": "right_up",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1259,
+                851
+            ],
+            "comhp_index": [
+                10
+            ],
+            "comhp_index_opt": 10,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "b74b94f7-0698-45a5-aac9-dc1bd29a714e": {
+            "size": {
+                "width": 180,
+                "height": 150
+            },
+            "mass": 4,
+            "intensity": 32,
+            "heatpipe_num": 2,
+            "origin": "",
+            "backups": [],
+            "board": "right_up",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1106,
+                559
+            ],
+            "comhp_index": [
+                8,
+                9
+            ],
+            "comhp_index_opt": 8,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "39d043a2-99b8-4735-b656-8a1f68e5e30a": {
+            "size": {
+                "width": 100,
+                "height": 200
+            },
+            "mass": 2.8,
+            "intensity": 15,
+            "heatpipe_num": 1,
+            "origin": "",
+            "backups": [],
+            "board": "right_up",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1382,
+                361
+            ],
+            "comhp_index": [
+                11
+            ],
+            "comhp_index_opt": 11,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "30a83a85-deac-49f3-b404-b2e7199ad27e": {
+            "size": {
+                "width": 80,
+                "height": 80
+            },
+            "mass": 2.6,
+            "intensity": 6.5,
+            "heatpipe_num": 1,
+            "origin": "",
+            "backups": [],
+            "board": "right_up",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1806,
+                249
+            ],
+            "comhp_index": [
+                15
+            ],
+            "comhp_index_opt": 15,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "e492bcb5-ebf9-4891-abce-c5547630df73": {
+            "size": {
+                "width": 200,
+                "height": 60
+            },
+            "mass": 8,
+            "intensity": 35,
+            "heatpipe_num": 2,
+            "origin": "",
+            "backups": [],
+            "board": "right_up",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                674,
+                625
+            ],
+            "comhp_index": [
+                4,
+                5
+            ],
+            "comhp_index_opt": 4,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "2ef640d8-3836-4fd4-9353-e9f58d46d133": {
+            "size": {
+                "width": 200,
+                "height": 100
+            },
+            "mass": 6.5,
+            "intensity": 70,
+            "heatpipe_num": 2,
+            "origin": "",
+            "backups": [],
+            "board": "right_up",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1757,
+                608
+            ],
+            "comhp_index": [
+                14,
+                15
+            ],
+            "comhp_index_opt": 14,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "7ca507cd-c83d-488e-bc86-47bdfdb061fd": {
+            "size": {
+                "width": 280,
+                "height": 120
+            },
+            "mass": 4.6,
+            "intensity": 55,
+            "heatpipe_num": 3,
+            "origin": "",
+            "backups": [],
+            "board": "right_up",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1489,
+                693
+            ],
+            "comhp_index": [
+                11,
+                12,
+                13
+            ],
+            "comhp_index_opt": 11,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "ac3982c5-211e-48c6-a2ee-6f2a7b84fd69": {
+            "size": {
+                "width": 280,
+                "height": 120
+            },
+            "mass": 4.6,
+            "intensity": 55,
+            "heatpipe_num": 3,
+            "origin": "",
+            "backups": [],
+            "board": "right_up",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1493,
+                557
+            ],
+            "comhp_index": [
+                11,
+                12,
+                13
+            ],
+            "comhp_index_opt": 11,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "de155dfa-84cb-4166-92e7-ce7f817a6ee5": {
+            "size": {
+                "width": 120,
+                "height": 100
+            },
+            "mass": 3,
+            "intensity": 26,
+            "heatpipe_num": 1,
+            "origin": "",
+            "backups": [],
+            "board": "right_up",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1269,
+                692
+            ],
+            "comhp_index": [
+                10
+            ],
+            "comhp_index_opt": 10,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "5d7f4706-94a0-423f-be05-ec07a700c412": {
+            "size": {
+                "width": 180,
+                "height": 150
+            },
+            "mass": 4,
+            "intensity": 32,
+            "heatpipe_num": 2,
+            "origin": "",
+            "backups": [],
+            "board": "right_up",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1105,
+                392
+            ],
+            "comhp_index": [
+                8,
+                9
+            ],
+            "comhp_index_opt": 8,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "80ffe9cc-5c2d-4f1b-9fd3-6c250c754e5d": {
+            "size": {
+                "width": 180,
+                "height": 150
+            },
+            "mass": 4,
+            "intensity": 32,
+            "heatpipe_num": 2,
+            "origin": "",
+            "backups": [],
+            "board": "right_up",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1106,
+                217
+            ],
+            "comhp_index": [
+                8,
+                9
+            ],
+            "comhp_index_opt": 8,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "cec06e6c-d2b4-4938-8128-5ded5c362a82": {
+            "size": {
+                "width": 100,
+                "height": 200
+            },
+            "mass": 2.8,
+            "intensity": 15,
+            "heatpipe_num": 1,
+            "origin": "",
+            "backups": [],
+            "board": "right_up",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1261,
+                355
+            ],
+            "comhp_index": [
+                10
+            ],
+            "comhp_index_opt": 10,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "3775d3e6-facd-44b2-9614-842691c15159": {
+            "size": {
+                "width": 80,
+                "height": 80
+            },
+            "mass": 2.6,
+            "intensity": 6.5,
+            "heatpipe_num": 1,
+            "origin": "",
+            "backups": [],
+            "board": "right_up",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1800,
+                360
+            ],
+            "comhp_index": [
+                15
+            ],
+            "comhp_index_opt": 15,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "c277d74d-918c-455c-9a47-6dd131c13e67": {
+            "size": {
+                "width": 80,
+                "height": 80
+            },
+            "mass": 2.6,
+            "intensity": 6.5,
+            "heatpipe_num": 1,
+            "origin": "",
+            "backups": [],
+            "board": "right_up",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1801,
+                141
+            ],
+            "comhp_index": [
+                15
+            ],
+            "comhp_index_opt": 15,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "2c3a2bfe-b81d-48b7-9dc0-b1833bde448f": {
+            "size": {
+                "width": 200,
+                "height": 60
+            },
+            "mass": 3,
+            "intensity": 30,
+            "heatpipe_num": 2,
+            "origin": "",
+            "backups": [],
+            "board": "right_up",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                784,
+                883
+            ],
+            "comhp_index": [
+                5,
+                6
+            ],
+            "comhp_index_opt": 5,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "f16bec74-411a-4041-aec8-dd6159358d65": {
+            "size": {
+                "width": 200,
+                "height": 60
+            },
+            "mass": 3,
+            "intensity": 30,
+            "heatpipe_num": 2,
+            "origin": "",
+            "backups": [],
+            "board": "right_up",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                782,
+                790
+            ],
+            "comhp_index": [
+                5,
+                6
+            ],
+            "comhp_index_opt": 5,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "d39773cb-0267-41a3-ba9b-59d5c29a9532": {
+            "size": {
+                "width": 220,
+                "height": 220
+            },
+            "mass": 10,
+            "intensity": 42.5,
+            "heatpipe_num": 2,
+            "origin": "",
+            "backups": [],
+            "board": "right_up",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                879,
+                464
+            ],
+            "comhp_index": [
+                6,
+                7
+            ],
+            "comhp_index_opt": 6,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "f4a8d7ad-a3fc-4821-b1ac-a31f98183408": {
+            "size": {
+                "width": 220,
+                "height": 220
+            },
+            "mass": 10,
+            "intensity": 42.5,
+            "heatpipe_num": 2,
+            "origin": "",
+            "backups": [],
+            "board": "right_up",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                889,
+                218
+            ],
+            "comhp_index": [
+                6,
+                7
+            ],
+            "comhp_index_opt": 6,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "b368b8c9-e2cd-4c5f-99d8-459786e0b5ff": {
+            "size": {
+                "width": 90,
+                "height": 160
+            },
+            "mass": 7.5,
+            "intensity": 8,
+            "heatpipe_num": 1,
+            "origin": "",
+            "backups": [],
+            "board": "right_up",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1605,
+                159
+            ],
+            "comhp_index": [
+                13
+            ],
+            "comhp_index_opt": 13,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "4a159bc6-31eb-4d53-9648-64aabcaabc30": {
+            "size": {
+                "width": 90,
+                "height": 160
+            },
+            "mass": 7.5,
+            "intensity": 8,
+            "heatpipe_num": 1,
+            "origin": "",
+            "backups": [],
+            "board": "right_up",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1490,
+                158
+            ],
+            "comhp_index": [
+                12
+            ],
+            "comhp_index_opt": 12,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        "39c48a54-bd2c-44fb-bc71-b2d855732cbd": {
+            "size": {
+                "width": 90,
+                "height": 160
+            },
+            "mass": 7.5,
+            "intensity": 8,
+            "heatpipe_num": 1,
+            "origin": "",
+            "backups": [],
+            "board": "right_up",
+            "heatpipe_range": [
+                null,
+                null
+            ],
+            "location_range": [
+                null,
+                null,
+                null,
+                null
+            ],
+            "group": "",
+            "location": [
+                1377,
+                159
+            ],
+            "comhp_index": [
+                11
+            ],
+            "comhp_index_opt": 11,
+            "islocked": false,
+            "envelope": [
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "groups": {},
+    "heatpipes": {
+        "L0": {
+            "width": 30,
+            "height": 2000,
+            "maxload": 120,
+            "location": {
+                "x": 192.6470588235294,
+                "y": 0
+            },
+            "board": "left"
+        },
+        "L1": {
+            "width": 30,
+            "height": 2000,
+            "maxload": 120,
+            "location": {
+                "x": 300.2941176470588,
+                "y": 0
+            },
+            "board": "left"
+        },
+        "L2": {
+            "width": 30,
+            "height": 2000,
+            "maxload": 120,
+            "location": {
+                "x": 407.94117647058823,
+                "y": 0
+            },
+            "board": "left"
+        },
+        "L3": {
+            "width": 30,
+            "height": 2000,
+            "maxload": 120,
+            "location": {
+                "x": 515.5882352941176,
+                "y": 0
+            },
+            "board": "left"
+        },
+        "L4": {
+            "width": 30,
+            "height": 2000,
+            "maxload": 120,
+            "location": {
+                "x": 623.2352941176471,
+                "y": 0
+            },
+            "board": "left"
+        },
+        "L5": {
+            "width": 30,
+            "height": 2000,
+            "maxload": 120,
+            "location": {
+                "x": 730.8823529411765,
+                "y": 0
+            },
+            "board": "left"
+        },
+        "L6": {
+            "width": 30,
+            "height": 2000,
+            "maxload": 120,
+            "location": {
+                "x": 838.5294117647059,
+                "y": 0
+            },
+            "board": "left"
+        },
+        "L7": {
+            "width": 30,
+            "height": 2000,
+            "maxload": 120,
+            "location": {
+                "x": 946.1764705882351,
+                "y": 0
+            },
+            "board": "left"
+        },
+        "L8": {
+            "width": 30,
+            "height": 2000,
+            "maxload": 120,
+            "location": {
+                "x": 1053.8235294117646,
+                "y": 0
+            },
+            "board": "left"
+        },
+        "L9": {
+            "width": 30,
+            "height": 2000,
+            "maxload": 120,
+            "location": {
+                "x": 1161.4705882352941,
+                "y": 0
+            },
+            "board": "left"
+        },
+        "L10": {
+            "width": 30,
+            "height": 2000,
+            "maxload": 120,
+            "location": {
+                "x": 1269.1176470588234,
+                "y": 0
+            },
+            "board": "left"
+        },
+        "L11": {
+            "width": 30,
+            "height": 2000,
+            "maxload": 120,
+            "location": {
+                "x": 1376.764705882353,
+                "y": 0
+            },
+            "board": "left"
+        },
+        "L12": {
+            "width": 30,
+            "height": 2000,
+            "maxload": 120,
+            "location": {
+                "x": 1484.4117647058824,
+                "y": 0
+            },
+            "board": "left"
+        },
+        "L13": {
+            "width": 30,
+            "height": 2000,
+            "maxload": 120,
+            "location": {
+                "x": 1592.0588235294117,
+                "y": 0
+            },
+            "board": "left"
+        },
+        "L14": {
+            "width": 30,
+            "height": 2000,
+            "maxload": 120,
+            "location": {
+                "x": 1699.705882352941,
+                "y": 0
+            },
+            "board": "left"
+        },
+        "L15": {
+            "width": 30,
+            "height": 2000,
+            "maxload": 120,
+            "location": {
+                "x": 1807.3529411764705,
+                "y": 0
+            },
+            "board": "left"
+        },
+        "R15": {
+            "width": 30,
+            "height": 2000,
+            "maxload": 120,
+            "location": {
+                "x": 1807.3529411764707,
+                "y": 0
+            },
+            "board": "right"
+        },
+        "R14": {
+            "width": 30,
+            "height": 2000,
+            "maxload": 120,
+            "location": {
+                "x": 1699.705882352941,
+                "y": 0
+            },
+            "board": "right"
+        },
+        "R13": {
+            "width": 30,
+            "height": 2000,
+            "maxload": 120,
+            "location": {
+                "x": 1592.0588235294117,
+                "y": 0
+            },
+            "board": "right"
+        },
+        "R12": {
+            "width": 30,
+            "height": 2000,
+            "maxload": 120,
+            "location": {
+                "x": 1484.4117647058824,
+                "y": 0
+            },
+            "board": "right"
+        },
+        "R11": {
+            "width": 30,
+            "height": 2000,
+            "maxload": 120,
+            "location": {
+                "x": 1376.7647058823532,
+                "y": 0
+            },
+            "board": "right"
+        },
+        "R10": {
+            "width": 30,
+            "height": 2000,
+            "maxload": 120,
+            "location": {
+                "x": 1269.1176470588234,
+                "y": 0
+            },
+            "board": "right"
+        },
+        "R9": {
+            "width": 30,
+            "height": 2000,
+            "maxload": 120,
+            "location": {
+                "x": 1161.4705882352941,
+                "y": 0
+            },
+            "board": "right"
+        },
+        "R8": {
+            "width": 30,
+            "height": 2000,
+            "maxload": 120,
+            "location": {
+                "x": 1053.8235294117649,
+                "y": 0
+            },
+            "board": "right"
+        },
+        "R7": {
+            "width": 30,
+            "height": 2000,
+            "maxload": 120,
+            "location": {
+                "x": 946.1764705882351,
+                "y": 0
+            },
+            "board": "right"
+        },
+        "R6": {
+            "width": 30,
+            "height": 2000,
+            "maxload": 120,
+            "location": {
+                "x": 838.5294117647059,
+                "y": 0
+            },
+            "board": "right"
+        },
+        "R5": {
+            "width": 30,
+            "height": 2000,
+            "maxload": 120,
+            "location": {
+                "x": 730.8823529411766,
+                "y": 0
+            },
+            "board": "right"
+        },
+        "R4": {
+            "width": 30,
+            "height": 2000,
+            "maxload": 120,
+            "location": {
+                "x": 623.2352941176468,
+                "y": 0
+            },
+            "board": "right"
+        },
+        "R3": {
+            "width": 30,
+            "height": 2000,
+            "maxload": 120,
+            "location": {
+                "x": 515.588235294118,
+                "y": 0
+            },
+            "board": "right"
+        },
+        "R2": {
+            "width": 30,
+            "height": 2000,
+            "maxload": 120,
+            "location": {
+                "x": 407.9411764705883,
+                "y": 0
+            },
+            "board": "right"
+        },
+        "R1": {
+            "width": 30,
+            "height": 2000,
+            "maxload": 120,
+            "location": {
+                "x": 300.29411764705947,
+                "y": 0
+            },
+            "board": "right"
+        },
+        "R0": {
+            "width": 30,
+            "height": 2000,
+            "maxload": 120,
+            "location": {
+                "x": 192.64705882352973,
+                "y": 0
+            },
+            "board": "right"
+        }
+    },
+    "route": {
+        "routes": [],
+        "route_connect": {},
+        "routes_max_length": -1,
+        "route_num": 0
+    },
+    "global": {
+        "backup_distance": 20
+    },
+    "stage1": {
+        "timelimit": 1,
+        "enableoutput": true
+    },
+    "stage2": {
+        "grid_size": null,
+        "grid_num": null,
+        "timelimit": 1,
+        "enableoutput": true,
+        "centroid_range": null
+    }
+}
