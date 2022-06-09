@@ -1,4 +1,4 @@
-We propose a clan-based bi-population genetic algorithm (CBBPGA). 
+We propose a bi-population clan-based genetic algorithm (BCGA). 
 
 A clan-based framework featuring no extra computational cost or sensitivity to pre-defined parameters, is designed to increase population diversity and locate different optimal regions, where a clan is defined to be a production and competition unit with a dynamically increasing clan size. The framework introduces special rules to adjust both the selection and crossover operators to preserve population diversity and boost the exploration ability of the algorithm.
 
