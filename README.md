@@ -1,5 +1,10 @@
 # BCGA4HCLO
 
+- First runner-up in: [CEC’2022 Competition on Heat Pipe-Constrained Component Layout Optimization](https://idrl-lab.github.io/CEC2022-HCLO/)
+
+- Paper: [A bi-population clan-based genetic algorithm for heat pipe-constrained component layout optimization](https://www.sciencedirect.com/science/article/abs/pii/S0957417422018991)
+
+
 We propose a bi-population clan-based genetic algorithm (BCGA) for HCLO.
 
 A clan-based framework featuring no extra computational cost or sensitivity to pre-defined parameters, is designed to increase population diversity and locate different optimal regions, where a clan is defined to be a production and competition unit with a dynamically increasing clan size. The framework introduces special rules to adjust both the selection and crossover operators to preserve population diversity and boost the exploration ability of the algorithm.
